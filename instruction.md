@@ -20,3 +20,6 @@
     - by using langchain and gpt
         - code for this is availabe
         - this is a ipynb notebook from : https://youtu.be/8YWMYVn3Q98?si=MM6s04VKb3mRYTtA
+
+
+- for web scraping we have used the help of: https://github.com/anmoljhamb/incredible-india-data-scrape
