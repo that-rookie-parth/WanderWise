@@ -33,8 +33,8 @@ async function main() {
     recurse(links);
   }
 
-  queue.fetchLink();
   recurse(baseLinks);
+  queue.fetchLink();
 }
 
 main();
