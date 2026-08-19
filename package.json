@@ -1,14 +1,14 @@
 {
-  "name": "datascraing",
+  "name": "wanderwise-data-scraper",
   "version": "1.0.0",
-  "description": "",
+  "description": "Supporting TypeScript crawler for the WanderWise travel itinerary prototype",
   "main": "index.ts",
   "scripts": {
     "index": "ts-node ./index.ts"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.12.12",
     "@typescript-eslint/eslint-plugin": "^7.9.0",
@@ -18,6 +18,6 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
-    "axios": "^1.6.8"
+    "axios": "^1.19.0"
   }
 }
