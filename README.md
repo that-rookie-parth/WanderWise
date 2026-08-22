@@ -62,7 +62,7 @@ was not captured, and the LangChain APIs used here have since changed. Treat the
 steps below as an environment outline rather than a reproducible current build.
 
 ```bash
-git clone https://github.com/that-rookie-parth/WanderWise.git
+git clone https://github.com/parthkulshreshtha/WanderWise.git
 cd WanderWise
 
 python -m venv .venv
